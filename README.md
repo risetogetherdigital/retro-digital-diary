@@ -56,18 +56,6 @@ Then visit:
 http://localhost:8000
 ```
 
-## 🌐 Neocities Upload
-
-1. 🔑 Sign in to your [Neocities](https://neocities.org/) account.
-2. 🏡 Open your site dashboard.
-3. 📂 Go to the file manager.
-4. ⬆️ Upload:
-   - `index.html`
-   - `style.css`
-   - `script.js`
-5. ⚠️ If prompted to replace an existing `index.html`, back up the current site first.
-6. 💖 Open your site URL to view your page.
-
 ## 📝 Notes
 
 - 🌱 This is a static frontend project and does not require a backend.
