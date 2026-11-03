@@ -2,7 +2,7 @@
 
 A cozy, handcrafted personal website inspired by the aesthetic of early internet blogs and modern scrapbook-style design. 💗
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 ✨ Explore the website here:
 
