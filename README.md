@@ -1,6 +1,12 @@
 # 🌸 Little Internet Diary
 
-A cozy, handcrafted personal website inspired by the aesthetic of early internet blogs and modern scrapbook-style design. 💗 This project is built as a static frontend and is designed to be uploaded directly to [Neocities](https://neocities.org/) or any simple web hosting service. 🌐
+A cozy, handcrafted personal website inspired by the aesthetic of early internet blogs and modern scrapbook-style design. 💗
+
+🌐 Live Demo
+
+✨ Explore the website here:
+
+🔗 [Little Internet Diary – Visit Website](https://littleinternetdiary.netlify.app/)
 
 ## 🌷 Overview
 
